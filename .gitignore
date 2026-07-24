@@ -1,0 +1,7 @@
+breast_cancer.csv
+data.csv
+__pycache__/
+.ipynb_checkpoints/
+
+*.pyc
+.DS_Store
